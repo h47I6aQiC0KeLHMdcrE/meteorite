@@ -5,7 +5,7 @@ go 1.24
 replace github.com/cosmos/cosmos-sdk => github.com/faddat/basecoin v0.0.0-20241004182125-2b3e8f61430f
 
 require (
-	github.com/BurntSushi/toml v1.4.0
+	github.com/BurntSushi/toml v1.5.0
 	github.com/CosmWasm/wasmd v0.53.2
 	github.com/cometbft/cometbft v0.38.15
 	github.com/cosmos/cosmos-sdk v0.50.10
