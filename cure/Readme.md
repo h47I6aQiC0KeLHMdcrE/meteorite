@@ -39,3 +39,5 @@ osmosisd tx gov submit-proposal param-change cure.json --from icns --keyring-bac
     "deposit": "100000000uatom"
 }
 ```
+
+<!-- Auto-update: 2025-10-15T14:01:13.015876 -->
